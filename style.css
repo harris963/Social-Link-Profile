@@ -10,21 +10,21 @@
 }
 body{
 background-color:  hsl(0, 0%, 8%);
-padding-top: 60px;
-padding-bottom: 60px;
+display: flex; 
+justify-content: center;
+align-items: center;
+min-height: 100vh;
 }
 .container{
-    height: 580px;
-    width: 332px;
-    margin: 0 auto;
+    height: 500px;
+    width: 300px;
+    text-align: center;
+    /* margin: 0 auto; */
     background-color: hsl(0, 0%, 12%);
     border-radius: 10px;
-}
-.internal-container{
     padding: 27px 24px;
-    text-align: center;
-    /* margin-top: 60px; */
 }
+
 img{
 border-radius: 50%;
 /* padding-bottom: 32px; */
