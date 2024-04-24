@@ -47,10 +47,9 @@ width: 80px;
 .about{
     font-size: 14px;
     color: hsl(0, 0%, 100%);
-}
-.about{
     padding-bottom: 26px;
 }
+
 
 .link{
     background-color:  hsl(0, 0%, 20%);
